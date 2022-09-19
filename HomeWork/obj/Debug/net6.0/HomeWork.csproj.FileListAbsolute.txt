@@ -1,0 +1,15 @@
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\bin\Debug\net6.0\HomeWork.exe
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\bin\Debug\net6.0\HomeWork.deps.json
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\bin\Debug\net6.0\HomeWork.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\bin\Debug\net6.0\HomeWork.dll
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\bin\Debug\net6.0\ref\HomeWork.dll
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\bin\Debug\net6.0\HomeWork.pdb
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.dll
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\ref\HomeWork.dll
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.pdb
+C:\Users\KDFX Team\Desktop\Семинар1\HomeWork\obj\Debug\net6.0\HomeWork.genruntimeconfig.cache
