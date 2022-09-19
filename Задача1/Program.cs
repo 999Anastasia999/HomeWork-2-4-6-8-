@@ -30,7 +30,15 @@ namespace Project
 
         //цикл
         //пока время раннее, можно смотреть мультики
-         
+        int time = 11;
+        while(time < 22)
+        {
+            time++;
+            Console.WriteLine("еще можно смотреть мультики. время: " + time);
+        }
+        Console.WriteLine("пора спать");
+        Console.WriteLine(time);
+
         }
 
         #region Fill and Print
