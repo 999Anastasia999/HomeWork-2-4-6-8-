@@ -1,0 +1,15 @@
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\bin\Debug\net6.0\Задача4(7).exe
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\bin\Debug\net6.0\Задача4(7).deps.json
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\bin\Debug\net6.0\Задача4(7).runtimeconfig.json
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\bin\Debug\net6.0\Задача4(7).dll
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\bin\Debug\net6.0\ref\Задача4(7).dll
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\bin\Debug\net6.0\Задача4(7).pdb
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).dll
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\ref\Задача4(7).dll
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).pdb
+C:\Users\KDFX Team\Desktop\Семинар1\Задача4(7)\obj\Debug\net6.0\Задача4(7).genruntimeconfig.cache
