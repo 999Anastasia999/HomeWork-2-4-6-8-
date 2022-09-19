@@ -101,3 +101,8 @@ else if (day == 7)
 {
     Console.WriteLine("Воскресенье");
 } 
+
+else
+{
+    Console.WriteLine("Неверный ввод");
+} 
